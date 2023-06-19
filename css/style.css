@@ -29,7 +29,27 @@ ul{
     justify-content: center;
 }
 
+/* IMG-BG */
+
+.img-bg{
+    background-color: #00008b;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+.box-pink{
+    width: 700px;
+    height: 300px;
+    background-color:#ee82ee ;
+
+}
+
 /* UTILITIES */
+
+.wrap{
+    flex-wrap: wrap;
+}
+
 
 .debug{
     border: 2px dashed black;
@@ -49,6 +69,8 @@ ul{
 .logo{
     width: 20%;
 }
+
+
 
 
 
