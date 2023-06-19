@@ -1,0 +1,56 @@
+/* GENERICS */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: auto auto;
+    justify-content: space-between;
+    background-color: #daa520;
+    align-items: center;
+    
+}
+
+header{
+    background-color: #add8e6;
+    height: 60px;
+}
+ .logo, .login , li{
+    padding: 10px;
+ }
+
+ul{
+    list-style: none;
+    width: 100%;
+    justify-content: center;
+}
+
+/* UTILITIES */
+
+.debug{
+    border: 2px dashed black;
+
+}
+
+.flex{
+    display: flex;
+  
+}
+
+.login{
+    width: 20%;
+    justify-content: end;
+}
+
+.logo{
+    width: 20%;
+}
+
+
+
+
+
