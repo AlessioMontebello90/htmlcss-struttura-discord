@@ -105,6 +105,24 @@ footer{
 
 }
 
+.black-box{
+    background-color:#23272a ;
+}
+
+.footer-bottom{
+    padding: 2rem 0;
+    
+}
+
+.logo-footer{
+    background-color: pink;
+}
+.button-footer{
+    background-color: pink ;
+}
+
+
+
 /* UTILITIES */
 
 .wrap{
